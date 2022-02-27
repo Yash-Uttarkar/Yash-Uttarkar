@@ -2,8 +2,9 @@
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Yash Uttarkar</strong></samp></h2>
 
+<img src="https://gpvc.arturio.dev/Yash-Uttarkar" alt="Profile views" align='right'/> <a href="https://github.com/Yash-Uttarkar/Yash-Uttarkar/"> </a>
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Connect with me**!
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -12,23 +13,23 @@
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="gautamkrishnar" height="30" width="190" /></a>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! 
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I'm Yash Uttarkar! 
+  <i>Currently:</i>  stuyding Bachelor of Computer Engineering at Vidyalankar Institute of Technology. 
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Yash-Uttarkar/Yash-Uttarkar/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 🚀 I’m currently learning Data Structures and Algorithms 
+- 📝 Insane for CyberSercurity
+- 💬 Always excited to try New Things
+- 📝 Meticulous attention to detail.
+- 📫 Ask me about anything, I am happy to help;
 
 </br>
     
