@@ -23,7 +23,7 @@
   
   
   
-  [![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Uttarkar)](https://github.com/Yash-Uttarkar/github-readme-stats)
+  [![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Uttarkar)](https://github.com/Yash-Uttarkar/)
 
 
 <!---
