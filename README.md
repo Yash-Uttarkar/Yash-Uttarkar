@@ -114,7 +114,7 @@ These are some of the technologies and tools that I work with:
   
   <p align="center">
   <a href="https://github.com/Yash-Uttarkar/assets">
-    <img align="center" src="https://github.com/Yash-Uttarkar/assets/blob/main/header.png" />
+    <img align="center" src="https://github.com/Yash-Uttarkar/Yash-Uttarkar/blob/main/header.png" />
   </a>
   
   
