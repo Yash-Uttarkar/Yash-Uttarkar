@@ -2,7 +2,7 @@
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Yash Uttarkar</strong></samp></h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Competative+Programmer;Software+Developer;Always%20learning%20new%20things;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things;Competative+Programmer;Software+Developer;&center=true&width=380&height=45"></a>
 </p>
 
 <img src="https://gpvc.arturio.dev/Yash-Uttarkar" alt="Profile views" align='right'/> <a href="https://github.com/Yash-Uttarkar/Yash-Uttarkar/"> </a>
