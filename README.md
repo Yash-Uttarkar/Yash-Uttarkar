@@ -117,8 +117,6 @@ These are some of the technologies and tools that I work with:
   </a>
   
   
-  
-  [![Yashh GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Uttarkar)](https://github.com/Yash-Uttarkar/)
 
 
 <!---
