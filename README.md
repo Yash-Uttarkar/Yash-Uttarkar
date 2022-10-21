@@ -1,6 +1,6 @@
 
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Yash Uttarkar</strong></samp></h2>
+<h2 align='center'><samp><strong>Hey there 👋, I am Yash Uttarkar</strong></samp></h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things;Competative+Programmer;Software+Developer;&center=true&width=380&height=45"></a>
 </p>
